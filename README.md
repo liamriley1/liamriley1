@@ -1,11 +1,16 @@
-### Hi there 👋
-
-17 year old homelab enthusiast from Leeds, UK
+### About me
 
 [liamriley.me](https://liamriley.me)
 
+19 year old Computer Science student at The University of Edinburgh.
 
-- 🔭 I’m currently working on making a more resilient homelab
-- 🌱 I’m currently learning k3s, ansible and rancher
-- 💬 Ask me about anything homelab-related :)
-- 📫 How to reach me: email liam-at-[my domain]
+I love computer networking, cybersecurity and privacy issues.
+
+My hobbies:
+* Bouldering
+* Tennis
+* My Homelab 👨‍💻
+
+How to reach me:
+* email liam-at-[my domain]
+* signal @liam.472
